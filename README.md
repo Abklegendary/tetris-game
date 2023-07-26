@@ -2,16 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+I am to Build a replica of the famous Tetris game using HTML,CSS and JS
 
 ## Description
-TODO - How have you solved the problem?
+htmland css handled the view, js handled the functions for the movement of the blocks, shapes of the block, and the scores when the blocks align
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No instalation needed for this project
 
 ## Usage
-TODO - How does it work?
+start the server and check it out
 ```
 ./my_project argument1 argument2
 ```
